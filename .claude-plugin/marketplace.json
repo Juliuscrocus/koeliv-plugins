@@ -1,0 +1,12 @@
+{
+  "name": "koeliv",
+  "owner": { "name": "Koeliv", "url": "https://koeliv.com" },
+  "metadata": { "description": "Catalogue de plugins Koeliv pour Claude." },
+  "plugins": [
+    {
+      "name": "koeliv",
+      "source": "./plugins/koeliv",
+      "description": "Les chiffres de votre boutique dans Claude : ventes, publicité, stock et site, avec la fiche de votre boutique."
+    }
+  ]
+}

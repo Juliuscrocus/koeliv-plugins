@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "koeliv": {
+      "type": "http",
+      "url": "https://koeliv-mcp.koeliv.workers.dev/mcp"
+    }
+  }
+}

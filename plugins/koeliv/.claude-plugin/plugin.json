@@ -1,0 +1,11 @@
+{
+  "name": "koeliv",
+  "displayName": "Koeliv",
+  "description": "Les chiffres de votre boutique dans Claude : ventes Shopify, publicité Google, stock et site, lus avec la fiche de votre boutique. Réservé aux clients Koeliv : connexion par e-mail.",
+  "author": {
+    "name": "Koeliv",
+    "url": "https://koeliv.com"
+  },
+  "homepage": "https://koeliv.com",
+  "privacyPolicyUrl": "https://koeliv.com/confidentialite"
+}
